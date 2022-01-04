@@ -1,5 +1,4 @@
 Hi there, I'm azzouzi MOURAD Mourad-Azzouzi 👋
-Website Twitter Follow
 
 I'm a Developer !!
 - 🌱 I’m currently learning everything 🤣
