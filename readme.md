@@ -13,4 +13,4 @@ codeSTACKr.comcodeSTACKr | YouTubecodeSTACKr | TwittercodeSTACKr | LinkedIncodeS
 
 
 Languages and Tools:
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+Visual Studio Code HTML5 CSS3 Sass JavaScript React Gatsby GraphQL Node.js Deno SQL MySQL MongoDB Git GitHub Terminal
