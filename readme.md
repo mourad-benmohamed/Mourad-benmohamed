@@ -1,4 +1,4 @@
-Hi there, I'm azzouzi MOURAD Mourad-Azzouzi 👋
+Hi there, I'm Mourad Azzouzi 👋
 
 I'm a Developer !!
 - 🌱 I’m currently learning everything 🤣
