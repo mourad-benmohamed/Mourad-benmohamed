@@ -1,4 +1,4 @@
-Hi there, I'm Mourad Azzouzi 👋
+Hi there, I'm Mourad BENMOHAMMED 👋
 
 - 🌱 I’m a fullstack React developer (reactjs, nextjs, redux, react native)
 - 🥅 2022 Goals: Contribute more to Open Source projects
